@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="players_score">მოთამაშეების ქულები</string>
+    <string name="player_1">მოთამაშე A</string>
+    <string name="player_2">მოთამაშე B</string>
+    <string name="start_button">თამაშის დაწყება</string>
+    <string name="exit_button">გამოსვლა</string>
+</resources>
